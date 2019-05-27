@@ -7,8 +7,8 @@
 
 - 包含的类：
 - Util.java工具类，将时间戳转换成年月日时分秒格式
-MyFilter.java 过滤器类，设置request和response编码为utf-8
-ArticleBean.Java 文章实体JavaBean类
+- MyFilter.java 过滤器类，设置request和response编码为utf-8
+- ArticleBean.Java 文章实体JavaBean类
 CommentBean.java 文章评论JavaBean类
 UserBean.java 用户实体JavaBean
 ArticleDao.java 文章对应的操作数据库dao的层
