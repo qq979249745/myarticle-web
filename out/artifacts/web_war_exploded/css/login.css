@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.body{
+    background-image: url("../images/bj.jpg");
+    background-size: 100%;
+}
+.topbar{
+    background-color: #555555cc;
+    width: 100%;
+    height: 50px;
+}
+.topbar_left{
+    float: left;
+    font-size: 16px;
+    color: #FFF;
+    margin: 10px 50px;
+}

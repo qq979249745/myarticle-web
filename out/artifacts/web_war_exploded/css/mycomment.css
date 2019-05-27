@@ -1,0 +1,34 @@
+.article-list-item {
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px dotted #ddd;
+    padding: 1rem 0 1rem 0;
+    color: #000;
+    font-weight: bolder;
+    font-size: 20px;
+}
+.comment{
+    margin-left: 20px;
+    color: #000;
+    text-decoration: none;
+}
+.comment:hover{
+    text-decoration: underline;
+}
+.title{
+    float: left;
+    font-size: 15px;
+    margin: 10px;
+}
+.item-info{
+    float: right;
+    font-size: 12px;
+    margin-right: 20px;
+}
+.item-info span{
+    margin: 0 10px;
+}
+.item-info img{
+    width: 20px;
+    height: 20px;
+}

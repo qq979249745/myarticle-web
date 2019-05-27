@@ -1,0 +1,114 @@
+*{
+    color: #FFFFFF;
+}
+
+.table{
+    width: 980px;
+    margin: 0 auto;
+    background: #555555cc;
+}
+.user{
+    color: #CCCCCC;
+}
+.table_span{
+    float: right;
+}
+.table_span img{
+    width: 25px;
+    height: 25px;
+}
+.article_copyright{
+    color: #999;
+    font-size: 12px;
+    margin: 2px;
+}
+.table_div{
+    font-size: 30px;
+    white-space: pre-wrap;
+}
+.table_textarea{
+    display: none;
+    width: 980px;
+    height: 700px;
+    font-size: 30px;
+    background: #555555cc;
+}
+.table_h1{
+    display: none;
+    width: 980px;
+    font-size: 2em;
+    font-weight: bold;
+    background: #555555cc;
+}
+.user-img {
+    margin: 8px ;
+    display: block;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+}
+.comment-content {
+    margin: 5px auto;
+    color: black;
+    display: block;
+    width: 100%;
+    padding: 7px 8px;
+    background: #fff;
+    border: 1px solid #c1c1c1;
+    border-radius: 4px;
+    resize: none;
+    height: 80px;
+    font-size: 14px;
+    line-height: 22px;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -webkit-transition: height .3s ease-in-out;
+    transition: height .3s ease-in-out;
+}
+.btn-comment{
+    float: right;
+    cursor: pointer;
+    color: #fff !important;
+    border: 1px solid #ca0c16 !important;
+    background-color: #ca0c16 !important;
+    -webkit-transition: background-color .1s ease-in-out,border-color .1s ease-in-out;
+    transition: background-color .1s ease-in-out,border-color .1s ease-in-out;
+    height: 30px;
+    line-height: 28px;
+    min-width: 72px;
+}
+.comment{
+    width: 100%;
+    margin: 20px;
+    height: 200px;
+}
+.comment_icon{
+    float: left;
+    width: 15%;
+    height: 100%;
+}
+.comment_icon img{
+    margin: 8px ;
+    display: block;
+    width: 80px;
+    height: 80px;
+    border: 1px solid #CCC;
+}
+.comment_icon div{
+    margin: 20px auto;
+}
+.comment_content{
+    float: left;
+    width: 70%;
+}
+.comment_content1{
+    margin:10px;
+    padding: 10px;
+    height: 100px;
+    width: 100%;
+    border: black 1px solid;
+}
+.comment_time{
+    width: 100%;
+    text-align: end;
+}

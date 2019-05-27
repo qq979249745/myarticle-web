@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="web第三次作业:war">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="web第三次作业_war.war">
+      <element id="artifact" artifact-name="web第三次作业:war exploded" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="h2-1.4.197" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
